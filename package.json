@@ -1,0 +1,9 @@
+{
+  "name": "@dutchess/target-scoring",
+  "version": "1.0.0",
+  "description": "Score PE/VC acquisition targets with the Moat in the Machine framework",
+  "main": "index.js",
+  "files": ["."],
+  "license": "MIT",
+  "author": "Dutchess Management"
+}
